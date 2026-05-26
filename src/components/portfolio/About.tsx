@@ -15,21 +15,22 @@ export function About() {
       <div className="grid md:grid-cols-5 gap-10">
         <div className="md:col-span-3 space-y-5 text-lg text-muted-foreground leading-relaxed">
           <p>
-            I'm a motivated software developer completing my{" "}
+            I'm a results-driven developer completing my{" "}
             <span className="text-foreground">Level 5 Diploma in Software Development</span>{" "}
-            at World Mission High School in Kigali, Rwanda. My focus is backend
-            engineering — building reliable APIs and well-designed databases
-            that actually solve problems.
+            at World Mission High School in Kigali, Rwanda — with hands-on
+            experience building production APIs, full-stack web apps, and
+            mobile applications.
           </p>
           <p>
-            Beyond the classroom, I've shipped production code as an intern at{" "}
+            I've shipped production code as a Junior Backend Developer intern at{" "}
             <span className="text-foreground">Techwise</span>, freelanced for small
             businesses, and built a portfolio of side projects ranging from
             secure voting APIs to multiplayer browser games.
           </p>
           <p>
-            I care about the fundamentals: REST design, system thinking, and code
-            that other developers can pick up and extend.
+            I'm passionate about clean architecture and practical solutions
+            that ship on time — REST design, system thinking, and code other
+            developers can pick up and extend.
           </p>
 
           <div className="pt-4 grid grid-cols-3 gap-4 text-center">
