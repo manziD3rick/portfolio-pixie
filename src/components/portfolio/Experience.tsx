@@ -8,9 +8,9 @@ const jobs = [
     period: "2025 — Present",
     location: "Kigali",
     points: [
-      "Developed and maintained REST APIs using FastAPI — auth, routing, and business logic.",
-      "Optimised database queries and contributed to schema design and normalisation.",
-      "Collaborated with senior developers on production systems following Git-based workflows.",
+      "Engineered production-grade REST APIs in FastAPI — authentication, role-based access, routing, and core business logic.",
+      "Improved database performance by optimising queries and contributing to schema design and normalisation on live systems.",
+      "Collaborated with senior engineers in a Git-based workflow, gaining exposure to code review and deployment pipelines.",
     ],
   },
   {
@@ -19,8 +19,8 @@ const jobs = [
     period: "2025 — Present",
     location: "Remote",
     points: [
-      "Designed and delivered websites and backend systems for small businesses and individuals.",
-      "Owned client requirements, timelines, and revisions independently from brief to deployment.",
+      "Scoped, built, and deployed websites and backend systems for small businesses, managing the full project lifecycle independently.",
+      "Handled client communication, requirement gathering, iterative revisions, and on-time delivery across multiple projects.",
     ],
   },
   {
@@ -29,8 +29,8 @@ const jobs = [
     period: "2024 — 2025",
     location: "Kigali",
     points: [
-      "Provided technical support for lab equipment — troubleshooting, setup, routine maintenance.",
-      "Supported students and staff with software issues and network connectivity.",
+      "Diagnosed and resolved hardware, software, and network issues across lab equipment used by students and staff.",
+      "Maintained infrastructure reliability through proactive setup and routine maintenance, reducing downtime.",
     ],
   },
 ];
